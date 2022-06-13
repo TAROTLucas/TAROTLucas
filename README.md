@@ -1,5 +1,3 @@
-###Hi there 👋
-
 <!--
 **TAROTLucas/TAROTLucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi there :wave:
+Hi there :wave:__ 
 
-I'm currently working at Eglobalpro :facepunch:
-I'm also training with o-clock that year :smiley:
-I'm mostly doing php/sql :clap:
+I'm currently working at Eglobalpro :facepunch:__ 
+I'm also training with o-clock that year :smiley:__ 
+I'm mostly doing php/sql :clap:__ 
