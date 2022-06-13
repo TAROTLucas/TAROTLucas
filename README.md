@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi there :wave:__ 
+Hi there :wave:<br/>
 
-I'm currently working at Eglobalpro :facepunch:__ 
-I'm also training with o-clock that year :smiley:__ 
-I'm mostly doing php/sql :clap:__ 
+I'm currently working at Eglobalpro :facepunch: <br/>
+I'm also training with o-clock that year :smiley:<br/> 
+I'm mostly doing php/sql :clap:<br/> 
