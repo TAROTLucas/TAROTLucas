@@ -15,5 +15,3 @@ Here are some ideas to get you started:
 Hi there :wave:<br/>
 
 I'm currently working at Eglobalpro :facepunch: <br/>
-I'm also training with o-clock that year :smiley:<br/> 
-I'm mostly doing php/sql, but OMW to full stack :clap:<br/>
