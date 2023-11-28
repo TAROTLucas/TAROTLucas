@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 -->
 Hi there :wave:<br/>
 
-I'm currently working at Eglobalpro :facepunch: <br/>
+This is my github profile,  <br/>
+
+👷 Currently in construction 👷 <br/>
